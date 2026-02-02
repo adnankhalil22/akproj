@@ -21,7 +21,7 @@ It can be run locally with minimal setup and customized to fit different use cas
 ## Technologies Used
 - HTML5
 - CSS3
-- Bootstrap 5
+- react
 - JavaScript
 
 ## Purpose
@@ -29,6 +29,8 @@ This project can be used as:
 - A starter template for web projects
 - A learning resource for frontend development
 - A base for landing pages or small websites
+-learning shit
+
 
 ## License
 This project is open-source and available under the MIT License.
